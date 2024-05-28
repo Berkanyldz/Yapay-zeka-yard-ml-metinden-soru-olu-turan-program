@@ -6,7 +6,6 @@ from tkinter import filedialog, messagebox
 
 def turkce_siralamasi():
 
-    # Türk alfabesindeki harflerin sıralaması
 
     return 'abcçdefgğhıijklmnoöprsştuüvyz'
 
